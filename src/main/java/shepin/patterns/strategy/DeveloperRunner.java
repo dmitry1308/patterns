@@ -12,5 +12,8 @@ public class DeveloperRunner {
 
 		developer.setActivity(new Sleeping());
 		developer.executeActivity();
+
+
+		developer.executeActivity(new Sleeping());
 	}
 }
