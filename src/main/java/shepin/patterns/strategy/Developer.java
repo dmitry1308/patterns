@@ -10,4 +10,8 @@ public class Developer {
 	public void executeActivity() {
 		activity.justDoIt();
 	}
+
+	public void executeActivity(Activity activity) {
+		activity.justDoIt();
+	}
 }
