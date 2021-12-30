@@ -1,5 +1,7 @@
 package shepin.patterns.structure.bridge;
 
+import shepin.patterns.structure.bridge.developer.Developer;
+
 public abstract class Program {
     protected Developer developer;
 

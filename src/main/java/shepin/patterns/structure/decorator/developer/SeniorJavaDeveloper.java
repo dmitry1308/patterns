@@ -1,4 +1,6 @@
-package shepin.patterns.structure.decorator;
+package shepin.patterns.structure.decorator.developer;
+
+import shepin.patterns.structure.decorator.DeveloperDecorator;
 
 public class SeniorJavaDeveloper extends DeveloperDecorator {
 	public SeniorJavaDeveloper(Developer developer) {

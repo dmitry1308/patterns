@@ -1,6 +1,8 @@
-package shepin.patterns.structure.decorator;
+package shepin.patterns.structure.decorator.developer;
 
-public class TeamLead extends DeveloperDecorator{
+import shepin.patterns.structure.decorator.DeveloperDecorator;
+
+public class TeamLead extends DeveloperDecorator {
 	public TeamLead(Developer developer) {
 		super(developer);
 	}

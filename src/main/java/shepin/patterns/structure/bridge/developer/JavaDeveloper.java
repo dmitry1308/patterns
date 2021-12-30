@@ -1,4 +1,4 @@
-package shepin.patterns.structure.bridge;
+package shepin.patterns.structure.bridge.developer;
 
 public class JavaDeveloper implements Developer {
     @Override

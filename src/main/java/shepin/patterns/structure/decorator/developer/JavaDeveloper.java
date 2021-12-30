@@ -1,4 +1,4 @@
-package shepin.patterns.structure.decorator;
+package shepin.patterns.structure.decorator.developer;
 
 public class JavaDeveloper  implements Developer{
 	@Override
